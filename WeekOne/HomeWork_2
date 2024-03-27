@@ -1,0 +1,42 @@
+QUESTION 1.
+How many validators are there currently in solana ecosystem?
+
+ANSWER.
+Solana has a dynamic set of validators, and the number can vary over time. 
+
+QUESTION 2.
+What is special about this Block [4sGjMW1sUnHzSxGspuhpqLDx6wiyjNtZAMdL4VZHirAn]?
+
+
+ANSWER.
+The special thing about block is that Block has no transaction.
+
+
+QUESTION 3.
+What is so special about this address [1nc1nerator11111111111111111111111111111111]
+
+ANSWER.
+It has no account with solana, but it has different transaction history.
+
+
+QUESTION 4.
+ What is this transaction [45pGoC4Rr3fJ1TKrsiRkhHRbdUeX7633XAGVec6XzVdpRbzQgHhe6ZC6Uq164MPWtiqMg7wCkC6Wy3jy2BqsDEKf] doing
+
+ANSWER.
+This account is sending a system program transfer from a normal address to an Incinerator address
+
+
+QUESTION 5.
+What is the largest balance you can find in an account ?
+
+
+ANSWER.
+
+
+QUESTION 6.
+What advantages will the end user see when using Solana compared to other blockchains ?
+
+ANSWER.
+Solana is faster, more scalable, better, more technologically advanced and more useful.
+
+

@@ -1,0 +1,5 @@
+command for airdrop = " solana airdrop 1 <RECIPIENT_ACCOUNT_ADDRESS>
+--url https://api.devnet.solana.com "
+
+
+Signature(tx): 2ppMX4CFkUFynR4njLeY1K1TDyMJa5yhzKj29XtsAskL6rA3fpkdmBs2Uw5RNtzPsXcshU8haFgP8xUsciAp8R1y

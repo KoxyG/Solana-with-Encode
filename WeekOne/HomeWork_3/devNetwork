@@ -1,0 +1,13 @@
+command to configure devNetwork = " solana config set --url https://api.devnet.solana.com"
+
+
+
+check config = "solana config get"
+
+
+Config File: /Users/mac/.config/solana/cli/config.yml
+RPC URL: https://api.devnet.solana.com 
+WebSocket URL: wss://api.devnet.solana.com/ (computed)
+Keypair Path: /Users/mac/.config/solana/id.json 
+Commitment: confirmed 
+

@@ -1,0 +1,6 @@
+pubkey command = "mkdir ~/my-solana-wallet
+solana-keygen new --outfile ~/my-solana-
+wallet/my-keypair.json"
+
+
+pubkey: 4EWtbvmgr6VnCkMTqDVNCVsKZnwZ1GUPbzcMGvS2SRfY

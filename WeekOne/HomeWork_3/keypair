@@ -1,0 +1,3 @@
+Keypair command = "solana-keygen pubkey ~/my-solana-wallet/my-keypair.json"
+
+keypair = 6MB3iemznX24YukvTBG9hXHz6gLWz8751um8YSFU4eRa
